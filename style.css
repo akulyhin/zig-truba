@@ -1,3 +1,12 @@
 img {
     max-width: 100%;
 }
+
+.advantages b {
+    color: #0080cc;
+}
+
+.advantages h3 {
+    margin: 25px 0;
+    font-weight: 700;
+}
